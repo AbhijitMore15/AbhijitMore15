@@ -20,16 +20,21 @@
 
 <p align="center">
 
-🔹 <b>AI Career Recommender Backend</b><br>
-FastAPI • ML • Explainable AI • Roadmaps<br><br>
+🔹 <b><a href="https://github.com/AbhijitMore15/AI-Powered-Job-Recommender-and-Path-Advisor">AI Career Recommender Backend</a></b><br>
+<sub>FastAPI • ML • Explainable AI • Roadmaps</sub>
 
-🔹 <b>Email Spam Detection System</b><br>
-Machine Learning • Classification • Security<br><br>
+<br>
 
-🔹 <b>Trail Mate App</b><br>
-Cycling • Trekking • Real-world utility<br>
+🔹 <b><a href="https://github.com/AbhijitMore15/Spam-Email-Detection">Spam Email Detection System</a></b><br>
+<sub>Machine Learning • Classification • Security</sub>
+
+<br>
+
+🔹 <b><a href="https://github.com/AbhijitMore15/TrailMate-Cycling-and-Trekking-App">Trail Mate App</a></b><br>
+<sub>Cycling • Trekking • Real-world Utility</sub>
 
 </p>
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
