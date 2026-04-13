@@ -16,25 +16,27 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbhijitMore15&theme=dark&hide_border=false&layout=compact" />
 </p>
 
-## 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=AbhijitMore15&theme=dark&no-frame=true&no-bg=true&margin-w=10" />
+
+🔹 <b>AI Career Recommender Backend</b><br>
+FastAPI • ML • Explainable AI • Roadmaps<br><br>
+
+🔹 <b>Email Spam Detection System</b><br>
+Machine Learning • Classification • Security<br><br>
+
+🔹 <b>Trail Mate App</b><br>
+Cycling • Trekking • Real-world utility<br>
+
 </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AbhijitMore15&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
 
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijitMore15&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AbhijitMore15&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
 </p>
