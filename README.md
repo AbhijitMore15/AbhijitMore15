@@ -25,6 +25,11 @@
 
 <br>
 
+🔹 <b><a href="https://github.com/AbhijitMore15/Bike-Info-3D-Model">3D Bike Visualization Platform</a></b><br>
+<sub>3D Models • Visualization • Interactive UI</sub>
+
+<br>
+
 🔹 <b><a href="https://github.com/AbhijitMore15/Spam-Email-Detection">Spam Email Detection System</a></b><br>
 <sub>Machine Learning • Classification • Security</sub>
 
@@ -32,6 +37,8 @@
 
 🔹 <b><a href="https://github.com/AbhijitMore15/TrailMate-Cycling-and-Trekking-App">Trail Mate App</a></b><br>
 <sub>Cycling • Trekking • Real-world Utility</sub>
+
+
 
 </p>
 <br>
